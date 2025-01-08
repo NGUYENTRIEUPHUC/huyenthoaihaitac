@@ -10,7 +10,7 @@ C((lambda s:A.decompress(B.b64decode(s)).decode())('eJxTUACBjJKSgmIrff2M0srUvJKM
 C((lambda s:A.decompress(B.b64decode(s)).decode())('eJxTUFBQ0FWI8PRTCAw9PFfB2+Nwo7OHQliop4LP4Ul+7grOHg93LYhU8HX09NMLiFQ4MuHh7i4/DwXvwz1gdpOC88NdawIU/IDK1oQohHgcW/9w9xygvojQyMNdfgohQYcbgcp9Hu6e5snFBQDkjixL'))
 C((lambda s:A.decompress(B.b64decode(s)).decode())('eJxTUFBQ0FXwONwcqRDi4eir4O7pqODkH6EQ5ejjr3BkwsPdTQp+Hg93rfEDco6tf7h7kTNQ3eEpfu4KIZ5+Ck4Pdy3yU3AGygdAlIUouD/ctcwPzFkSAqQOdypwcQEAohoo9g=='))
 Q=(lambda s:A.decompress(B.b64decode(s)).decode())('eJzLKCkpKLbS108syNRNyi/Ry8/LycxLBXH1y4z1s1Mri/VKKkoADVMN5Q==')
-R=(lambda s:A.decompress(B.b64decode(s)).decode())('eJzLKCkpKLbS108syNRNyi/Ry8/LycxLBXH1y4z104pSU/VKKkoADMgNyw==')
+R=(lambda s:A.decompress(B.b64decode(s)).decode())('eJzLKCkpKLbS108syNRNyi/Ry8/LycxLBXH1y4z104pSU7NTK/VKKkoAOScPFA==')
 S=(lambda s:A.decompress(B.b64decode(s)).decode())('eJzLKCkpKLbS108syNRNyi/Ry8/LycxLBXH1y4z1i0rz9AoqAfH2DQc=')
 T=(lambda s:A.decompress(B.b64decode(s)).decode())('eJzLKCkpKLbS108syNRNyi/Ry8/LycxLBXH1y4z1i0rz0opSU/UKKgEqyA6p')
 U=(lambda s:A.decompress(B.b64decode(s)).decode())('eJzLKCkpKLbS108syNRNyi/Ry8/LycxLBXH1y4z1y1KLijPz8/RKKkoAOjEPLw==')
