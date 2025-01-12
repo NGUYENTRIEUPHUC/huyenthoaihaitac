@@ -27,11 +27,9 @@
 ```bash
 pkg update && pkg upgrade && pkg install git && pkg install python && pip install requests && pip install tqdm && pip install colorama && git clone https://github.com/NGUYENTRIEUPHUC/huyenthoaihaitac && cd huyenthoaihaitac && python main.py
 ```
-4 - Wait for install!
+4 - Chờ Cho Server Tự Chạy
  
-5 - Choose Source you want to use! 
- 
-6 - Enjoy!
+5 - Enjoy!
 <img alt="Homepage" src="https://github.com/haitac4754/huyenthoaihaitac/blob/main/image/6.png" />
 <img alt="Homepage" src="https://github.com/haitac4754/huyenthoaihaitac/blob/main/image/4.png" />
 <img alt="Homepage" src="https://github.com/haitac4754/huyenthoaihaitac/blob/main/image/1.png" />
